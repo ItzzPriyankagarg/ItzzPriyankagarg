@@ -1,6 +1,6 @@
 # 💫 About Me:
 # Hi there, I'm Priyanka 👋<br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Computer+Science+Undergraduate;C%2B%2B+%7C+Java+%7C+Python+%7C+SQL;Learning+DSA+and+AI%2FML;Open+to+Internships+and+Collaborations)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+I'm+Priyanka+%F0%9F%91%8B;CS+Undergraduate;Learning+DSA+and+AI%2FML;C%2B%2B+%7C+Java+%7C+Python+%7C+SQL)](https://git.io/typing-svg)
 <br>🎓 Computer Science Undergraduate<br><br>💻 C • C++ • Java • Python • SQL<br><br>🚀 Passionate about Software Development, DSA, and AI/ML<br><br>📚 Currently exploring Operating Systems, DBMS, COA, and Machine Learning<br><br>🌱 Building projects and continuously improving my problem-solving skills<br><br>🤝 Open to internships, hackathons, and meaningful collaborations!!
 
 
